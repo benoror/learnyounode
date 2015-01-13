@@ -2,10 +2,10 @@
 
 ### for "Learn You The Node.js For Much Win!" excercises
 
-[https://github.com/rvagg/learnyounode](https://github.com/rvagg/learnyounode)
+[github.com/rvagg/learnyounode](https://github.com/rvagg/learnyounode)
 
-[https://github.com/maxogden/art-of-node](https://github.com/maxogden/art-of-node)
+[github.com/maxogden/art-of-node](https://github.com/maxogden/art-of-node)
 
-[http://nodeschool.io/](http://nodeschool.io/)
+[nodeschool.io/](http://nodeschool.io/)
 
-[http://nodejs.org/](http://nodejs.org/)
+[nodejs.org/](http://nodejs.org/)
